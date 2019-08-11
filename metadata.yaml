@@ -1,0 +1,45 @@
+_repo: Wars-Treaties-1815-to-1914_60026
+_version: 0.0.1
+alternative_title: Wars and Treaties, 1815-1914
+creator:
+  author:
+    agent_name: Ponsonby, Arthur Ponsonby, Baron
+    aliases:
+    - Ponsonby, William
+    - Ponsonby, Arthur Augustus William Harry Ponsonby, Baron
+    - Clune, Thomas
+    birthdate: 1871
+    deathdate: 1946
+    gutenberg_agent_id: '50747'
+    url: http://www.gutenberg.org/2009/agents/50747
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Ponsonby,_1st_Baron_Ponsonby_of_Shulbrede
+description: ''
+gutenberg_issued: '2019-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60026'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Military history, Modern'
+- !lcsh 'History, Modern -- 19th century'
+- !lcsh 'History, Modern -- 20th century'
+- !lcsh 'Treaties'
+- GITenberg
+tableOfContents: Introduction -- Greek War -- Russo-Turkish War -- War between Holland
+  and Belgium -- War in Portugal and Spain -- Russian Campaign in Poland -- Turko-Egyptian
+  War -- First Afghan War -- Opium War in China -- American War With Mexico -- Austro-Hungarian
+  War -- Italian War of Liberation -- Crimean War -- Indian Mutiny -- Chinese War
+  -- American Civil War -- French Expedition in Mexico -- Brazilian War -- Danish
+  War -- Austro-Prussian War -- British Expedition in Abyssinia -- Franco-German War
+  -- The Ashanti War -- Russo-Turkish War -- Second Afghan War -- Zulu War -- The
+  Chile-Peruvian War -- French Expedition in Tunis -- Egyptian War -- Franco-Chinese
+  War -- Burmese Wars -- Serbo-Bulgarian War -- Chino-Japanese War -- Italo-Abyssinian
+  War -- War in the Soudan -- Turko-Greek War -- Spanish-American War -- The Boer
+  Wars -- Boxer Rising in China -- Russo-Japanese War -- Turko-Italian War -- First
+  Balkan War -- Second Balkan War -- Important Treaties -- Index of Treaties -- Bibliography.
+title: Wars & Treaties, 1815 to 1914
+url: http://www.gutenberg.org/ebooks/60026
