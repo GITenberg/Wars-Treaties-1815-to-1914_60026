@@ -1,6 +1,9 @@
 _repo: Wars-Treaties-1815-to-1914_60026
 _version: 0.1.0
 alternative_title: Wars and Treaties, 1815-1914
+covers:
+- cover_type: archival
+  image_path: 60026-h/images/cover.jpg
 creator:
   author:
     agent_name: Ponsonby, Arthur Ponsonby, Baron
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50747
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Ponsonby,_1st_Baron_Ponsonby_of_Shulbrede
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60026#Wars-Treaties-1815-to-1914
 gutenberg_issued: '2019-07-31'
 gutenberg_type: Text
 identifiers:
